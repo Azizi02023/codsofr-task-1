@@ -1,0 +1,80 @@
+/* Base styles for .abc and img elements */
+
+.abcd, img{
+  width: 100%;
+  height: 70hv;
+}
+
+img {
+  object-fit: cover;
+}
+
+/* Base styles for .text element */
+.text {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  text-align: center; /* To center align the content */
+}
+
+.text h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  background: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.text p {
+  font-size: 1.5rem;
+  padding: 0.5rem 0.2rem 20px;
+  color: white;
+}
+
+.text .show {
+  text-decoration: none;
+  background: white;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: black;
+}
+.text .hide{
+  display: none;
+}
+
+/* Media queries for responsiveness */
+/* For devices with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+  .text {
+    top: 50%; /* Adjust vertical positioning */
+    font-size: 90%; /* Adjust font size */
+  }
+}
+
+/* For devices with a maximum width of 480px */
+@media screen and (max-width: 480px) {
+  .text {
+    top: 40%; /* Further adjust vertical positioning */
+    font-size: 80%; /* Further adjust font size */
+  }
+  .text h1 {
+    font-size: 2rem; /* Further adjust h1 font size */
+  }
+  .text p {
+    font-size: 1.2rem; /* Further adjust p font size */
+  }
+  .text .show {
+    font-size: 1rem; /* Further adjust .show font size */
+  }
+}
