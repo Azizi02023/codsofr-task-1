@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travel-Web/static/css/main.aa75d620.css",
+    "main.js": "/Travel-Web/static/js/main.cf1ecc68.js",
+    "static/media/KDR.jpg": "/Travel-Web/static/media/KDR.65bd198f8c3fb0dfb164.jpg",
+    "static/media/Bamian.jpg": "/Travel-Web/static/media/Bamian.44263f8f86f6e0ca98c3.jpg",
+    "static/media/Kabul.jpg": "/Travel-Web/static/media/Kabul.9a9194077535336930c5.jpg",
+    "static/media/home.jpg": "/Travel-Web/static/media/home.99e6fbdab9e2356422e1.jpg",
+    "static/media/2.jpg": "/Travel-Web/static/media/2.1905447d50d0fe998f64.jpg",
+    "static/media/3.jpg": "/Travel-Web/static/media/3.b21e88e10a81ed2c3476.jpg",
+    "static/media/kdr1.jpg": "/Travel-Web/static/media/kdr1.1819e3f1d87805605657.jpg",
+    "static/media/Kuner.jpg": "/Travel-Web/static/media/Kuner.3726d5d5eb38c27358e4.jpg",
+    "static/media/Kand.jpg": "/Travel-Web/static/media/Kand.dc4e6e88fbda8e2c75b0.jpg",
+    "static/media/1.jpg": "/Travel-Web/static/media/1.61a94daee077396065b7.jpg",
+    "index.html": "/Travel-Web/index.html",
+    "main.aa75d620.css.map": "/Travel-Web/static/css/main.aa75d620.css.map",
+    "main.cf1ecc68.js.map": "/Travel-Web/static/js/main.cf1ecc68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa75d620.css",
+    "static/js/main.cf1ecc68.js"
+  ]
+}
