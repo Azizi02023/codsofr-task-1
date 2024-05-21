@@ -25,6 +25,7 @@ img {
 }
 
 .text h1 {
+  
   font-size: 3rem;
   font-weight: 800;
   background: white;
@@ -57,6 +58,7 @@ img {
 /* For devices with a maximum width of 768px */
 @media screen and (max-width: 768px) {
   .text {
+    display: none;
     top: 50%; /* Adjust vertical positioning */
     font-size: 90%; /* Adjust font size */
   }
@@ -65,16 +67,20 @@ img {
 /* For devices with a maximum width of 480px */
 @media screen and (max-width: 480px) {
   .text {
+    display: none;
     top: 40%; /* Further adjust vertical positioning */
     font-size: 80%; /* Further adjust font size */
   }
   .text h1 {
+    display: none;
     font-size: 2rem; /* Further adjust h1 font size */
   }
   .text p {
+    display: none;
     font-size: 1.2rem; /* Further adjust p font size */
   }
   .text .show {
+    display: none;
     font-size: 1rem; /* Further adjust .show font size */
   }
 }
