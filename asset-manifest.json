@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Travel-Website/static/css/main.aa75d620.css",
-    "main.js": "/Travel-Website/static/js/main.7f54c846.js",
-    "static/media/KDR.jpg": "/Travel-Website/static/media/KDR.65bd198f8c3fb0dfb164.jpg",
-    "static/media/Bamian.jpg": "/Travel-Website/static/media/Bamian.44263f8f86f6e0ca98c3.jpg",
-    "static/media/Kabul.jpg": "/Travel-Website/static/media/Kabul.9a9194077535336930c5.jpg",
-    "static/media/home.jpg": "/Travel-Website/static/media/home.99e6fbdab9e2356422e1.jpg",
-    "static/media/2.jpg": "/Travel-Website/static/media/2.1905447d50d0fe998f64.jpg",
-    "static/media/3.jpg": "/Travel-Website/static/media/3.b21e88e10a81ed2c3476.jpg",
-    "static/media/kdr1.jpg": "/Travel-Website/static/media/kdr1.1819e3f1d87805605657.jpg",
-    "static/media/Kuner.jpg": "/Travel-Website/static/media/Kuner.3726d5d5eb38c27358e4.jpg",
-    "static/media/Kand.jpg": "/Travel-Website/static/media/Kand.dc4e6e88fbda8e2c75b0.jpg",
-    "static/media/1.jpg": "/Travel-Website/static/media/1.61a94daee077396065b7.jpg",
-    "index.html": "/Travel-Website/index.html",
-    "main.aa75d620.css.map": "/Travel-Website/static/css/main.aa75d620.css.map",
-    "main.7f54c846.js.map": "/Travel-Website/static/js/main.7f54c846.js.map"
+    "main.css": "/Azizi02023/Travel-Website.git/static/css/main.aa75d620.css",
+    "main.js": "/Azizi02023/Travel-Website.git/static/js/main.9b76a0fd.js",
+    "static/media/KDR.jpg": "/Azizi02023/Travel-Website.git/static/media/KDR.65bd198f8c3fb0dfb164.jpg",
+    "static/media/Bamian.jpg": "/Azizi02023/Travel-Website.git/static/media/Bamian.44263f8f86f6e0ca98c3.jpg",
+    "static/media/Kabul.jpg": "/Azizi02023/Travel-Website.git/static/media/Kabul.9a9194077535336930c5.jpg",
+    "static/media/home.jpg": "/Azizi02023/Travel-Website.git/static/media/home.99e6fbdab9e2356422e1.jpg",
+    "static/media/2.jpg": "/Azizi02023/Travel-Website.git/static/media/2.1905447d50d0fe998f64.jpg",
+    "static/media/3.jpg": "/Azizi02023/Travel-Website.git/static/media/3.b21e88e10a81ed2c3476.jpg",
+    "static/media/kdr1.jpg": "/Azizi02023/Travel-Website.git/static/media/kdr1.1819e3f1d87805605657.jpg",
+    "static/media/Kuner.jpg": "/Azizi02023/Travel-Website.git/static/media/Kuner.3726d5d5eb38c27358e4.jpg",
+    "static/media/Kand.jpg": "/Azizi02023/Travel-Website.git/static/media/Kand.dc4e6e88fbda8e2c75b0.jpg",
+    "static/media/1.jpg": "/Azizi02023/Travel-Website.git/static/media/1.61a94daee077396065b7.jpg",
+    "index.html": "/Azizi02023/Travel-Website.git/index.html",
+    "main.aa75d620.css.map": "/Azizi02023/Travel-Website.git/static/css/main.aa75d620.css.map",
+    "main.9b76a0fd.js.map": "/Azizi02023/Travel-Website.git/static/js/main.9b76a0fd.js.map"
   },
   "entrypoints": [
     "static/css/main.aa75d620.css",
-    "static/js/main.7f54c846.js"
+    "static/js/main.9b76a0fd.js"
   ]
 }
